@@ -1,0 +1,6 @@
+[submodule "MicroserviceSongService"]
+	path = MicroserviceSongService
+	url = https://github.com/loudbyte/MicroserviceSongService
+[submodule "MicroserviceResourceService"]
+	path = MicroserviceResourceService
+	url = https://github.com/loudbyte/MicroserviceResourceService
