@@ -1,0 +1,2 @@
+CREATE DATABASE song_db;
+CREATE DATABASE resource_db;
